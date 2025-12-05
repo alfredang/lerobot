@@ -1,4 +1,3 @@
-cat > README.md << 'ENDOFFILE'
 #  LeKiwi ChatGPT-Controlled Mobile Manipulator
 
 
@@ -39,7 +38,7 @@ The robot can operate in three modes:
 <table>
   <tr>
     <td width="50%">
-      <img src="media/pictures/lekiwi_with_lidar.png" alt="LeKiwi with RPLidar">
+      <img src="media/pictures/lekiwi_with lidar.png" alt="LeKiwi with RPLidar">
       <p align="center"><b>LeKiwi Robot with RPLidar A1</b></p>
     </td>
     <td width="50%">
@@ -49,11 +48,11 @@ The robot can operate in three modes:
   </tr>
   <tr>
     <td width="50%">
-      <img src="media/pictures/lekiwi_with_raspi.png" alt="LeKiwi with Raspberry Pi">
+      <img src="media/pictures/lekiwi_with raspi.png" alt="LeKiwi with Raspberry Pi">
       <p align="center"><b>Early Version with Raspberry Pi</b></p>
     </td>
     <td width="50%">
-      <img src="media/pictures/3_points.png" alt="Testing Environment">
+      <img src="media/pictures/3 points.png" alt="Testing Environment">
       <p align="center"><b>Test Environment: Point A (Robot), Point B (Objects), Point C (Shelf)</b></p>
     </td>
   </tr>
