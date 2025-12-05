@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+.Python
+venv/
+.venv/
+*.egg-info/
+
+# IMPORTANT: Never commit API keys!
+*api_key*
+*API_KEY*
+*.key
+secrets.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Robot
+.cache/
+*.bag
+*.log
+
+# Media (large files)
+*.mp4
+*.avi
