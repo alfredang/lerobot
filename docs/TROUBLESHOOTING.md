@@ -556,6 +556,5 @@ If issue persists after trying troubleshooting:
 
 1. Check [Quick Commands](../quick_reference/COMMANDS.md)
 2. Review [Installation Guide](INSTALLATION.md)
-3. Check GitHub Issues: https://github.com/alfredang/lerobot/issues
 
 **Most issues are permission-related or connection-related. Always check devices and permissions first!**
