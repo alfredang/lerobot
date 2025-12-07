@@ -60,7 +60,7 @@ The robot can operate in three modes:
 
 ### 2.2 Calibration Positions
 
-<img src="media/pictures/calibration_arm_positions.png" alt="Arm Calibration Positions" width="800">
+<img src="media/pictures/calibration_arm positions.png" alt="Arm Calibration Positions" width="800">
 
 **Calibration Steps:** 1. Middle position → 2. Zero position → 3. Rotated position → 4. Rest position
 
