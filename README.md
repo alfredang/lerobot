@@ -70,12 +70,12 @@ The robot autonomously finds and picks up 4 different objects using ChatGPT visi
 
 | Video | Task | Description |
 |-------|------|-------------|
-| **[1. Green Block](media/videos/1_green_block.mp4)** | Pick & Place | Robot locates and picks up green LEGO block |
-| **[2. Dog Toy](media/videos/2_dog.mp4)** | Pick & Place | Robot finds and grasps dog figurine |
-| **[3. Toy Car](media/videos/3_car.mp4)** | Pick & Place | Robot picks up miniature car |
-| **[4. Hulk Figure](media/videos/4_hulk.mp4)** | Pick & Place | Robot grasps and moves Hulk action figure |
-| **[5. Commands Demo](media/videos/commands.mp4)** | Full Session | Complete ChatGPT command and response recording |
-| **[6. Early Demo](media/videos/very_first.mp4)** | First Test | Initial successful test with Raspberry Pi |
+| **[1. Green Block](https://github.com/user-attachments/assets/4fbe7577-817d-48b2-8f71-75e29cb07fa9)** | Pick & Place | Robot locates and picks up green LEGO block |
+| **[2. Dog Toy](https://github.com/user-attachments/assets/a52256bf-9474-4a11-8396-f66f9c767644)** | Pick & Place | Robot finds and grasps dog figurine |
+| **[3. Toy Car](https://github.com/user-attachments/assets/590fbe7c-87a4-42a7-81ec-afdb6000e5e5)** | Pick & Place | Robot picks up miniature car |
+| **[4. Hulk Figure](https://github.com/user-attachments/assets/f3a29932-a94b-4f20-b9a2-b4c9e271ad3e)** | Pick & Place | Robot grasps and moves Hulk action figure |
+| **[5. Commands Demo](https://github.com/user-attachments/assets/6334025c-cc86-48e4-a7e8-6ca61f2f1f40)** | Full Session | Complete ChatGPT command and response recording |
+| **[6. Early Demo](https://github.com/user-attachments/assets/ca721f20-3607-45c0-b459-f0a5a321b6a1)** | First Test | Initial successful test with Raspberry Pi |
 
 ### 2.4 System Screenshots
 
