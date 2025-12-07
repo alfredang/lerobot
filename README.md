@@ -154,7 +154,7 @@ The primary objectives of this project are:
 | Leader Arm | 6-DOF manipulator | 1 | Position reference (teleoperation) |
 | Front Camera | USB webcam 640x480 | 1 | Forward vision |
 | Wrist Camera | 8MP USB Camera | 1 | Gripper view |
-| LiDAR Scanner | RPLidar A1 | 1 | 2D laser scanning (optional) |
+| LiDAR Scanner | RPLidar A1 | 1 | 2D laser scanning |
 
 ### 4.2 Software Requirements
 
